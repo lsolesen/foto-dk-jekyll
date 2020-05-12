@@ -13,14 +13,14 @@ future: true
 
 # Site Settings
 locale                   : "da"
-title                    : "Vejle Idrætshøjskole Foto"
+title                    : "Vejle Idrætshøjskole Fotografering"
 title_separator          : "-"
-name                     : "Vejle Idrætshøjskole"
-description              : "Vejle Idrætshøjskoles Historie."
+name                     : "Vejle Idrætshøjskole Foto"
+description              : "Et site om fotografering og hvordan man bruger blænde, lukker og ISO til at male med lys."
 subtitle                 : "Vi maler med lys"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "vih/historie" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "lsolesen/foto-dk-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 # masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -29,7 +29,7 @@ words_per_minute         : 200
 comments:
   provider               : false #"staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
 staticman:
-  branch                 : "gh-pages"
+  branch                 : "master"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -53,16 +53,16 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "vihdk"
+  username               : "lsolesen"
 facebook:
-  username               : "vihdk"
+  username               : "lsolesen"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Organization" # Person or Organization (defaults to Person)
+  type                   : "Person" # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -97,12 +97,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/lsolesen"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/lsolesen"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/lsolesen"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/larssolesen"
