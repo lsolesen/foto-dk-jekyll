@@ -43,8 +43,6 @@ Et billede er korrekt eksponeret, når der kommer den rigtige mængde lys ind p�
 
 **Tag billedet.** Tryk på knappen, når du er tilfreds med det, du ser igennem søgeren.
 
-[Download Cheatsheet](/assets/pdf/foto-cheatsheet.pdf){: .btn-info }
+[Download Cheatsheet](/assets/pdf/foto-cheatsheet.pdf){: .btn-info .btn--large }
 
 [Find flere cheatsheets](http://www.digitalcameraworld.com/tag/photography-cheat-sheet/page/2/){: .btn }
-
-
